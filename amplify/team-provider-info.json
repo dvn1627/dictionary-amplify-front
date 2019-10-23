@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-dictionary-dev-20191016134952-authRole",
+            "UnauthRoleArn": "arn:aws:iam::030870968126:role/amplify-dictionary-dev-20191016134952-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::030870968126:role/amplify-dictionary-dev-20191016134952-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-dictionary-dev-20191016134952-deployment",
+            "UnauthRoleName": "amplify-dictionary-dev-20191016134952-unauthRole",
+            "StackName": "amplify-dictionary-dev-20191016134952",
+            "StackId": "arn:aws:cloudformation:us-west-2:030870968126:stack/amplify-dictionary-dev-20191016134952/afad1eb0-f002-11e9-a992-0a1d36f3576c"
+        }
+    }
+}
